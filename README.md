@@ -1,7 +1,7 @@
 <img align="center" alt= "Coding" width = "1000" src = "https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif">
 <h1 align="center">Aloha!! 👋, I'm Siddharth Kumar</h1>
 <h3 align="center">A self acclaimed non-beginner backend dev 🥸</h3>
-<img align="right" alt= "Coding" width = "400" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w4YmY1OGZqNTl2N3lxcjY3M2V6dTZjdTV0ZTF5cDZqY2JqejZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
+<img align="right" alt= "Coding" width = "400" src = "https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 - 🔭 I’m currently working on WebSocktes?
 
