@@ -1,5 +1,4 @@
-<img align="center" alt= "Coding" width = "1000" src = "https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif">
-<h1 align="center">Aloha!! 👋, I'm Siddharth Kumar</h1>
+<h1 align="center">Aloha!!, I'm Siddharth Kumar</h1>
 <h3 align="center">A self acclaimed non-beginner backend dev 🥸</h3>
 
 <img align="right" alt= "Coding" width = "400" src = "https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
@@ -8,9 +7,9 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sid435](https://github.com/Sid435)
+- 👨‍💻 All of my projects are available at <a href = "https://github.com/Sid435"> GitHub </a>
   
-- If you wanna know more about me, you can check out my <a href="https://drive.google.com/file/d/18PiLx4iD07oYoGa484abxoP4l-_icJDo/view?usp=drivesdk" target="blank"> resume</a>
+- 📑 If you wanna know more about me, you can check out my <a href="https://drive.google.com/file/d/18PiLx4iD07oYoGa484abxoP4l-_icJDo/view?usp=drivesdk" target="blank"> resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
