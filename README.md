@@ -1,6 +1,8 @@
+<img align="center" alt= "Coding" width = "1000" src = "https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif">
 <h1 align="center">Aloha!! 👋, I'm Siddharth Kumar</h1>
 <h3 align="center">A self acclaimed non-beginner backend dev 🥸</h3>
-<img align="center" alt= "Coding" width = "1000" src = "https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img align="right" alt= "Coding" width = "400" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w4YmY1OGZqNTl2N3lxcjY3M2V6dTZjdTV0ZTF5cDZqY2JqejZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
+
 - 🔭 I’m currently working on WebSocktes?
 
 - 🌱 I’m currently learning **Spring**
