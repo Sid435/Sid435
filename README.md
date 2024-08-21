@@ -4,9 +4,9 @@
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 
-- 🔭 I’m currently working on **WebSockets**
+<!-- - 🔭 I’m currently working on **WebSockets** -->
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **GoLang**
 
 - 👨‍💻 All of my projects are available at <a href = "https://github.com/Sid435"> GitHub </a>
   
