@@ -51,7 +51,3 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=sid435&theme=onedark" alt="sid435" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid435&show_icons=true&locale=en&layout=compact" alt="sid435" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sid435&show_icons=true&locale=en" alt="sid435" /></p>
