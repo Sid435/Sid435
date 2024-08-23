@@ -1,0 +1,30 @@
+name: Update README with Code Percentages
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Update README with WakaTime Stats
+      uses: anmol098/waka-readme-stats@master
+      with:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.email "siddharthkumar435@gmail.com"
+        git config --global user.name "Sid435"
+        git add README.md
+        git commit -m "Update README with latest code percentages"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN_MUCH }}
