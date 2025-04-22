@@ -9,15 +9,6 @@
 
 - 📑 If you want to know more about me, you can check out my <a href="https://drive.google.com/file/d/18PiLx4iD07oYoGa484abxoP4l-_icJDo/view?usp=drivesdk" target="_blank">resume</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/Siddhar435" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhar435" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/siddharth-kumar-a709371a5/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth kumar" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/siddharth_458" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddharth_458" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/Siddharth_Jha435" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Siddharth_Jha435" height="30" width="40" /></a>
-    <a href="https://leetcode.com/u/Pegasus_435/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pegasus_435" height="30" width="40" /></a>
-</p>
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
