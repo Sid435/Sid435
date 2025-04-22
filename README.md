@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Sid435">GitHub</a>
 
-- 📑 If you want to know more about me, you can check out my <a href="https://drive.google.com/file/d/18PiLx4iD07oYoGa484abxoP4l-_icJDo/view?usp=drivesdk" target="_blank">resume</a>
+- 📑 If you want to know more about me, you can check out my <a href="https://docs.google.com/document/d/10TIugcPG78NxfS-BjUo904XDfePyK-Y9gpyKnNA19nI/edit?usp=sharing" target="_blank">resume</a>
 
 ---
 
