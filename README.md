@@ -82,7 +82,7 @@ Secure Android file-sharing application with biometric authentication and encryp
 
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid435&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthkumar435&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sid435&layout=compact&theme=radical)
 
 ---
 
