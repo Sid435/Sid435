@@ -1,44 +1,97 @@
-# Hi there, I'm Siddharth - aka Sid <img width="30px" height="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-<h3 align="center">A self-acclaimed non-beginner backend dev 🥸</h3>
+# Hi there, I'm Siddharth Kumar 👋
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+### Associate Cloud Native Developer | Full-Stack Engineer | Open Source Enthusiast
 
-- 🌱 I’m currently learning **GoLang**
-
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Sid435">GitHub</a>
-
-- 📑 If you want to know more about me, you can check out my <a href="https://docs.google.com/document/d/10TIugcPG78NxfS-BjUo904XDfePyK-Y9gpyKnNA19nI/edit?usp=sharing" target="_blank">resume</a>
+📍 New Delhi, Delhi | 📧 siddharthkumar435@gmail.com
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+## 🚀 About Me
 
-### Spotify Playing 🎧
+I'm a Computer Science Engineering graduate from Vellore Institute of Technology with a passion for building scalable, high-performance applications. Currently working as an Associate Cloud Native Developer at Techolution Inc., where I develop enterprise-grade solutions and integrate cutting-edge AI technologies.
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/z0ekec4tjaaum3bss39vm0hsb?si=2123b420f3ee4b50)
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔭 I'm currently working on **Agentic AI integrations** and **high-volume batch processing systems**
+- 🌱 I'm constantly learning about **distributed systems**, **cloud architecture**, and **AI/ML**
+- 💬 Ask me about **Spring Boot**, **Next.js**, **System Design**, or **Backend Architecture**
+- ⚡ Fun fact: I've helped reduce cloud costs by 40% through smart architectural decisions
 
 ---
 
-### GitHub Stats 📊
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sid435&show_icons=true&theme=radical" alt="Sid's GitHub stats" />
-</p>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 📊 My Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid435&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
-### 🏆 GitHub Profile Trophy
+## 💼 Professional Experience
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sid435&theme=onedark" alt="sid435" />
-</p>
+### **Techolution Inc.** - Associate Cloud Native Developer
+*Nov 2024 – Present*
+- Developed high-volume batch processing service using Spring Batch
+- Resolved 30+ production issues improving system stability
+- Achieved 85% test coverage using JUnit 5 and Mockito
+- Integrated Agentic AI APIs into enterprise systems
+
+### **Torana Inc.** - Junior Software Developer Intern
+*Mar 2024 – May 2024*
+- Built serverless REST API backend with Next.js 14 and AWS
+- Reduced cloud costs by 40% through event-driven architecture
+- Deployed production-ready applications on Vercel
+
+### **EleviQ Inc.** - Backend Developer Intern
+*Jan 2023 – Feb 2024*
+- Engineered scalable backend serving 500+ beta testers
+- Improved server response time by 70% through caching strategies
+- Built RESTful APIs with Spring Boot and MongoDB
+
+---
+
+## 🎯 Featured Projects
+
+### [Hero Chess](https://github.com/sid435/Chess)
+Multiplayer 5x5 strategic chess game with real-time WebSocket communication
+- **Tech:** Java, Spring Boot, WebSockets, HTML/CSS/JS
+
+### [Encrypto](https://github.com/akp660/Data-Encryption)
+Secure Android file-sharing application with biometric authentication and encryption
+- **Tech:** Go, PostgreSQL, Native Java, AES/RSA Encryption
+
+---
+
+## 📊 GitHub Stats
+
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid435&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthkumar435&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-kumar-a709371a5/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sid435)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthkumar435@gmail.com)
+
+---
+
+⭐️ From [Siddharth Kumar](https://github.com/sid435)
